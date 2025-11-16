@@ -11,10 +11,9 @@
 
 ## 软件截图
 
-![游戏截图1]<img width="1281" height="759" alt="image" src="https://github.com/user-attachments/assets/ba2de431-6a49-4bf8-924f-94c0312be676" />
+<img width="1281" height="759" alt="image" src="https://github.com/user-attachments/assets/ba2de431-6a49-4bf8-924f-94c0312be676" />
 
-
-![游戏截图2]<img width="1288" height="760" alt="无标题" src="https://github.com/user-attachments/assets/87f9c4a1-e87d-4718-97db-010d55a0e262" />
+<img width="1288" height="760" alt="无标题" src="https://github.com/user-attachments/assets/87f9c4a1-e87d-4718-97db-010d55a0e262" />
 
 ## 使用说明
 
