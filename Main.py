@@ -355,7 +355,7 @@ def update():
         return
 
     # 选择方块
-    for i in range(0, 9):
+    for i in range(0, 10):
         if held_keys[str(i)]:
             block_pick = i
 
@@ -441,3 +441,4 @@ def input(key):
 create_main_menu()
 
 app.run()
+
